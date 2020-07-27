@@ -8,7 +8,7 @@ Telegram inviter, spamer and parser
 
 # Installation
 * Windows:
-  * `Dowlnload python 3.8 [here](https://www.python.org/downloads/release/python-38)`
+  * `Dowlnload python 3.8 [here](https://www.python.org/downloads/release/python-38) `
   * `Launch installer, click 'add python to PATH'`
   * `Download **Telepars**`
   * `Open Command Line in **Telepars directory**`
