@@ -45,7 +45,7 @@ Telegram inviter, spamer and parser
 * Invite
   * `python invite.py members.csv`
 * Spam
-  * `pyhton smsbot.py members.csv`
+  * `python smsbot.py members.csv`
 
 <p align="center">
   <img src="https://i.ibb.co/8NNZTvH/hacked.jpg">
