@@ -8,15 +8,15 @@ Telegram inviter, spamer and parser
 
 # Installation
 * Windows:
-  * `Dowlnload python 3.8 [here](https://www.python.org/downloads/release/python-38) `
-  * `Launch installer, click 'add python to PATH'`
-  * `Download **Telepars**`
-  * `Open Command Line in **Telepars directory**`
-  * `Run command: ***python setup.py -i**`
-  * `Then go to <my.telegram.org> and login in your account`
-  * `Choose API Development Tools`
-  * `In Command Line run ***python setup.py -c***`
-  * `Enter api_id, api_hash and phone number`
+  * Dowlnload python 3.8 [here](https://www.python.org/downloads/release/python-38) 
+  * Launch installer, click 'add python to PATH'
+  * Download **Telepars**
+  * Open Command Line in **Telepars directory**
+  * Run command: ***python setup.py -i**`
+  * Then go to <my.telegram.org> and login in your account
+  * Choose API Development Tools
+  * In Command Line run ***python setup.py -c***
+  * Enter api_id, api_hash and phone number
   
 * Termux:
   * `pkg update`
