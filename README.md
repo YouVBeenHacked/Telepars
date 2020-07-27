@@ -39,7 +39,7 @@ Telegram inviter, spamer and parser
   * `In Command Line run ***python setup.py -c***`
   * `Enter api_id, api_hash and phone number`
 
-#Usage
+# Usage
 * Pars
   * `python pars.py`
 * Invite
