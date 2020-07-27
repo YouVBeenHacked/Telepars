@@ -6,7 +6,7 @@ Telegram inviter, spamer and parser
 </p>
 
 
-##Installation
+#Installation
 * Windows:
   * `Dowlnload python 3.8 [here](https://www.python.org/downloads/release/python-38)`
   * `Launch installer, click 'add python to PATH'`
@@ -38,4 +38,15 @@ Telegram inviter, spamer and parser
   * `Choose API Development Tools`
   * `In Command Line run ***python setup.py -c***`
   * `Enter api_id, api_hash and phone number`
-  
+
+#Usage
+* Pars
+  * `python pars.py`
+* Invite
+  * `python invite.py members.csv`
+* Spam
+  * `pyhton smsbot.py members.csv`
+
+<p align="center">
+  <img src="https://i.ibb.co/8NNZTvH/hacked.jpg">
+</p>
